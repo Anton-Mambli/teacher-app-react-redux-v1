@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/teacher-app-react-redux-v1/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/teacher-app-react-redux-v1/static/js/main.ca7928e5.chunk.js",
+    "main.js.map": "/teacher-app-react-redux-v1/static/js/main.ca7928e5.chunk.js.map",
+    "runtime-main.js": "/teacher-app-react-redux-v1/static/js/runtime-main.ea8fe84e.js",
+    "runtime-main.js.map": "/teacher-app-react-redux-v1/static/js/runtime-main.ea8fe84e.js.map",
+    "static/js/2.ef7b0d3b.chunk.js": "/teacher-app-react-redux-v1/static/js/2.ef7b0d3b.chunk.js",
+    "static/js/2.ef7b0d3b.chunk.js.map": "/teacher-app-react-redux-v1/static/js/2.ef7b0d3b.chunk.js.map",
+    "index.html": "/teacher-app-react-redux-v1/index.html",
+    "precache-manifest.2c0581c3163944064359e8e7aa710a89.js": "/teacher-app-react-redux-v1/precache-manifest.2c0581c3163944064359e8e7aa710a89.js",
+    "service-worker.js": "/teacher-app-react-redux-v1/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/teacher-app-react-redux-v1/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.ef7b0d3b.chunk.js.LICENSE.txt": "/teacher-app-react-redux-v1/static/js/2.ef7b0d3b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ea8fe84e.js",
+    "static/js/2.ef7b0d3b.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.ca7928e5.chunk.js"
+  ]
+}
